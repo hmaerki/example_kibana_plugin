@@ -1,0 +1,13 @@
+{
+  "type": "plugin",
+  "id": "@kbn/op-table-plugin",
+  "owner": ["@elastic/kibana-core"],
+  "group": "platform",
+  "visibility": "private",
+  "plugin": {
+    "id": "opTable",
+    "browser": true,
+    "server": true,
+    "requiredPlugins": ["navigation"]
+  }
+}
