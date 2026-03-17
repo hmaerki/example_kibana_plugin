@@ -1,0 +1,7 @@
+{
+  "prefix": "opTable",
+  "paths": {
+    "opTable": "."
+  },
+  "translations": ["translations/ja-JP.json"]
+}

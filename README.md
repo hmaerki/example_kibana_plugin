@@ -1,1 +1,1 @@
-# example_kibana_plugin
+This is folder /workspaces/kibana/plugins/op_table
